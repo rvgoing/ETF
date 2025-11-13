@@ -1,0 +1,49 @@
+# Git files
+.git
+.gitignore
+.gitattributes
+
+# GitHub files
+.github
+
+# Documentation
+README.md
+CONTRIBUTING.md
+LICENSE
+
+# IDE and Editor files
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+
+# Virtual environment
+venv
+env
+.venv
+
+# Test coverage
+.coverage
+.pytest_cache
+htmlcov
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+setup.py
+setup.cfg
+MANIFEST.in
